@@ -38,12 +38,14 @@ Since `-` is treated as a special character in Linux commands, it must be access
 
 ### Step 4: Read the File
 Use the following command to read the contents of the file:
-
+cat ./-
 This command treats `-` as a file in the current directory instead of an option.
+<img width="841" height="377" alt="Screenshot 2026-02-10 190701" src="https://github.com/user-attachments/assets/be556cc3-a48e-405e-9fdc-32091bd10275" />
 
 ### Step 5: Log in to Bandit Level 2
+
 Use the retrieved password to log in to the next level.
-![Alt text]("C:\Users\sanja\OneDrive\Pictures\Screenshots 1\Bandit\lvl2\Screenshot 2026-02-10 190701.png")
+<img width="834" height="730" alt="Screenshot 2026-02-10 190847" src="https://github.com/user-attachments/assets/a682af9a-8541-406a-b319-75b27e45a844" />
 
 ---
 
